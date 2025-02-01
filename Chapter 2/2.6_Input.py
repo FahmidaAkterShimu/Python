@@ -3,7 +3,7 @@ b = input("Enter number 2: ")
 
 # print("Number a is: ", a)
 # print("Number b is: ", b)
-print("Sum a+b = ", a+b)          # Concatenate two strings
+print("Sum a+b = ", a+b)            # Concatenate two strings
 # like
 print("Concatenate= " "30"+"40")
 
