@@ -3,7 +3,7 @@
 a = 31
 t1 = type(a)
 print(t1)
-f = float(a)       # coversion of 'a' from integer to float
+f = float(a)        # coversion of 'a' from integer to float
 print(type(f))
 
 b = 4.5

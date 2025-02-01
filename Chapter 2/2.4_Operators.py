@@ -7,7 +7,7 @@ print(c)
 
 # Assignment Operators
 
-a = 12-2     # Assign 12-2 in a
+a = 12-2      # Assign 12-2 in a
 print(a)
 b = 6
 b +=3
