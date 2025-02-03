@@ -1,4 +1,4 @@
-name = 'Shimu'      # Negative index -5,-4,-3,-2,-1
+name = 'Shimu'       # Negative index -5,-4,-3,-2,-1
 
 print(name[-4 : -1])    # Inclue -4,-3,-2 indices and exclude index -1
 print(name[1:4])

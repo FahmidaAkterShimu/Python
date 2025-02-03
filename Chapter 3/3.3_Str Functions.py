@@ -3,7 +3,7 @@ print(len(name))
 
 print(name.endswith('er'))
 print(name.startswith('Sh'))
-print(name.capitalize())
+print(name.capitalize())    # capitalize only first character
 print(name.lower())
 print(name.upper())
 print(name.title())
