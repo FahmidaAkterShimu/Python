@@ -1,5 +1,5 @@
 # Variable name can contain Alphabets, digits, underscores
-# only start with alphabet or underscores
+# only start with alphabet or underscores, not digits
 # No white space is allowed and no '@'
 
 a = 23
