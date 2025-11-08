@@ -7,7 +7,7 @@ print(c)
 
 # Assignment Operators: = , += , -= etc
 
-a = 12-2             # Assign 12-2 in a
+a = 12-2                # Assign 12-2 in a
 print(a)
 b = 6
 b +=3
@@ -30,5 +30,5 @@ f = True and False
 print(f)
 print(True and True)
 
-g = not False           # Not operator  
+g = not False               # Not operator  
 print(g)
