@@ -1,10 +1,10 @@
-a = (1,2,3,4,3)
+a = (1, 45, 342, 3424, False, 45, "Shimu", "Emu")
 print(a)
 
-n = a.count(3)
-print("Count of number 3 are: ", n)
+n = a.count(45)
+print("Count of number 45 are: ", n)
 
-i = a.index(3)
+i = a.index(342)
 print(i) 
 
 print(len(a))
