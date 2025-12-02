@@ -2,7 +2,7 @@
 
 post = input("Enter the post: ")
 
-if("Shimu" in post):
+if("Shimu".lower() in post.lower()):
     print("This post is talking about Shimu.")
 else:
     print("This post is not talking about Shimu.")
