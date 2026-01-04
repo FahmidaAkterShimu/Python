@@ -10,6 +10,7 @@ def rmv(l, word):
 l = ["Shimu", "Shova", "Emu", "mu"]
 print(rmv(l, "mu"))
 
+
 # To Remove any part from any position
 
 def rmv(l, word):
